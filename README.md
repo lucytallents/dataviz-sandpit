@@ -1,4 +1,4 @@
-# Animation sandpit
+# dataviz-sandpit
 
 Anuglar app containing data visualisation examples of D3 and DC animations.  D3 animations were first created in preparation for the Conservation Capacity-Building conference in late July/early August 2019
 
